@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\tes\\tpmodul4_103022330138\\",
+  "WorkspaceRootPath": "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\W4\\tpmodul4_103022330138\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BA03DA7-0981-4011-89C9-3336AFA0FB70}|tpmodul4_103022330138.csproj|c:\\users\\raffa\\documents\\kuliah\\semester4\\praktikum konstruksi perangkat lunak\\tes\\tpmodul4_103022330138\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BA03DA7-0981-4011-89C9-3336AFA0FB70}|tpmodul4_103022330138.csproj|c:\\users\\raffa\\documents\\kuliah\\semester4\\praktikum konstruksi perangkat lunak\\w4\\tpmodul4_103022330138\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BA03DA7-0981-4011-89C9-3336AFA0FB70}|tpmodul4_103022330138.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BA03DA7-0981-4011-89C9-3336AFA0FB70}|tpmodul4_103022330138.csproj|c:\\users\\raffa\\documents\\kuliah\\semester4\\praktikum konstruksi perangkat lunak\\tes\\tpmodul4_103022330138\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BA03DA7-0981-4011-89C9-3336AFA0FB70}|tpmodul4_103022330138.csproj|c:\\users\\raffa\\documents\\kuliah\\semester4\\praktikum konstruksi perangkat lunak\\w4\\tpmodul4_103022330138\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA03DA7-0981-4011-89C9-3336AFA0FB70}|tpmodul4_103022330138.csproj|solutionrelative:doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA03DA7-0981-4011-89C9-3336AFA0FB70}|tpmodul4_103022330138.csproj|c:\\users\\raffa\\documents\\kuliah\\semester4\\praktikum konstruksi perangkat lunak\\w4\\tpmodul4_103022330138\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BA03DA7-0981-4011-89C9-3336AFA0FB70}|tpmodul4_103022330138.csproj|solutionrelative:kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,30 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DoorMachine.cs",
+              "DocumentMoniker": "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\W4\\tpmodul4_103022330138\\DoorMachine.cs",
+              "RelativeDocumentMoniker": "DoorMachine.cs",
+              "ToolTip": "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\W4\\tpmodul4_103022330138\\DoorMachine.cs",
+              "RelativeToolTip": "DoorMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T03:51:24.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "KodePos.cs",
-              "DocumentMoniker": "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\tes\\tpmodul4_103022330138\\KodePos.cs",
+              "DocumentMoniker": "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\W4\\tpmodul4_103022330138\\KodePos.cs",
               "RelativeDocumentMoniker": "KodePos.cs",
-              "ToolTip": "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\tes\\tpmodul4_103022330138\\KodePos.cs",
+              "ToolTip": "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\W4\\tpmodul4_103022330138\\KodePos.cs",
               "RelativeToolTip": "KodePos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T03:24:18.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T03:24:18.539Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\tes\\tpmodul4_103022330138\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\W4\\tpmodul4_103022330138\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\tes\\tpmodul4_103022330138\\Program.cs",
+              "ToolTip": "C:\\Users\\RAFFA\\Documents\\KULIAH\\SEMESTER4\\Praktikum Konstruksi Perangkat Lunak\\W4\\tpmodul4_103022330138\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T03:12:27.551Z",
               "EditorCaption": ""

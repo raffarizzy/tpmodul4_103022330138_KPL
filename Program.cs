@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("TABLE-DRIVEN");
             Console.WriteLine("Kode Pos Kujangsari: " + KodePos.GetKodePos("Kujangsari"));
             Console.WriteLine("Kode Pos Maleer: " + KodePos.GetKodePos("Maleer"));
 
@@ -15,6 +16,11 @@
             {
                 Console.WriteLine(e.Message);
             }
+
+            Console.WriteLine("");
+            Console.WriteLine("STATED-BASED");
+            DoorMachine doorMachine = new DoorMachine();
+            doorMachine.Run();
         }
     }
 }
